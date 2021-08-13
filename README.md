@@ -22,6 +22,11 @@
 <p></p>
 
 ### Sobre Mi:
+[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/federico-ortiz-full-stack/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
+[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
 * 🎓 Exchange student of Inha University (fall semester, 2019)
 * 👨‍💻 Junior Java developer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
