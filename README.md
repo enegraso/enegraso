@@ -14,4 +14,4 @@
 * 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enegraso&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enegraso&show_icons=true&theme=dark)
