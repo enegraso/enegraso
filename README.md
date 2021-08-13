@@ -1,7 +1,7 @@
 <h2 align="center">Hola 👋, Soy Federico</h2>
 <h3 align="center">Un ingeniero informatico y estudiante de desarrollo de Software (Full Stack).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="enegraso" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enegraso&label=Profile%20views&color=0e75b6&style=flat" alt="enegraso" /> </p>
 
 ### Sobre Mi:
 * 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
@@ -15,8 +15,6 @@
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartMonitor)
 
-### En Progreso
-* 📚 **[Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)** course
 
 ![](https://raw.githubusercontent.com/enegraso/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/enegraso/github-stats-transparent/output/generated/languages.svg)
