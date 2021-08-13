@@ -12,9 +12,6 @@
 * 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)
 * 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartChange)
 * 📃 **Paper in Energies (Q2, MDPI)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
-* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
-* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartMonitor)
 
 
-![](https://raw.githubusercontent.com/enegraso/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/enegraso/github-stats-transparent/output/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enegraso&show_icons=true&theme=radical)
