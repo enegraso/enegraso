@@ -1,5 +1,5 @@
 <h2 align="center">Hola 👋, Soy Federico</h2>
-<h3 align="center">Un analista de sistemas y estudiante de desarrollo de Software (Full Stack).</h3>
+<h3 align="center">Full Stack Web Developer y desarrollador Visual C#.Net.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=enegraso&label=Profile%20views&color=0e75b6&style=flat" alt="enegraso" /> </p>
 
