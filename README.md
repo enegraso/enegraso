@@ -34,7 +34,7 @@ Herramietas de desarrollo para cualquieras de las distintas tecnologias a utiliz
 
 Me gusta desarrollar sistemas y apps moviles. Descubri que me faltaba algo y es esta carrera de full stack developer. A continuacion mis redes para que puedas contactarme!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/federico-ortiz-full-stack/
+![Alt_text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/federico-ortiz-full-stack/
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
